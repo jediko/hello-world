@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<manifest>
-  <guid>a5b3c6d191924114a774c2b2d7f73c38</guid>
-  <revision>0</revision>
-  <runtime>1.0.1</runtime>
-  <name>DEMO</name>
-  <entrypoint>test2.project</entrypoint>
-</manifest>
